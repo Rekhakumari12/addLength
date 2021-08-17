@@ -1,0 +1,6 @@
+// describe("addLength Test", () => {
+//     it("should return addtion of lengths in cm", () => {
+//         const expectedResult = 20
+//         expect(addLengths(10,10)).toEqual(expectedResult)
+//     })
+// })

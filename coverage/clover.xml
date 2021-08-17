@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1629208770303" clover="3.2.0">
+  <project timestamp="1629208770303" name="All files">
+    <metrics statements="28" coveredstatements="26" conditionals="18" coveredconditionals="15" methods="10" coveredmethods="8" elements="56" coveredelements="49" complexity="0" loc="28" ncloc="28" packages="1" files="2" classes="2"/>
+    <file name="Conversion.ts" path="/Users/rekha/Documents/unit-testing/addLengths/src/Conversion.ts">
+      <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+    </file>
+    <file name="addLength.ts" path="/Users/rekha/Documents/unit-testing/addLengths/src/addLength.ts">
+      <metrics statements="16" coveredstatements="16" conditionals="18" coveredconditionals="15" methods="4" coveredmethods="4"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="19" count="2" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="26" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="29" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="30" count="1" type="stmt"/>
+      <line num="32" count="2" type="cond" truecount="3" falsecount="1"/>
+      <line num="33" count="2" type="stmt"/>
+      <line num="35" count="4" type="stmt"/>
+    </file>
+  </project>
+</coverage>
